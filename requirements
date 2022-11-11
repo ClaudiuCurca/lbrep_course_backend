@@ -13,7 +13,7 @@ djangorestframework==3.14.0
 djangorestframework-gis==1.0
 djangorestframework-simplejwt==4.8.0
 djoser==2.1.0
-GDAL @ file:///C:/Users/Claudiu/Desktop/GDAL-3.4.3-cp310-cp310-win_amd64.whl
+GDAL @ https://gdal.org/download.html#download
 idna==3.4
 itypes==1.2.0
 Jinja2==3.1.2
